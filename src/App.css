@@ -1,0 +1,28 @@
+.body {
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid black;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hex {
+  width: 200px;
+  text-align: center;
+  padding: 1em 0;
+  background: white;
+  border: 1px solid black;
+}
+
+.rgb {
+  width: 200px;
+  text-align: center;
+  padding: 1em 0;
+  background: black;
+  color: white;
+  border: 1px solid black;
+  margin: 4px 0;
+}
